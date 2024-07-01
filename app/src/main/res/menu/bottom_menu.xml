@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+
+        android:id="@+id/goHome"
+        android:icon="@drawable/home"
+        android:title="Ana Menü"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconColor="@color/black"/>
+
+    <item
+
+        android:id="@+id/list"
+        android:icon="@drawable/list"
+        android:title="Liste"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconColor="@color/black"/>
+
+
+
+
+    <item
+
+        android:id="@+id/Profile"
+        android:icon="@drawable/person"
+        android:title="Profil"
+        app:cnb_backgroundColor="@color/white"
+        app:cnb_iconColor="@color/black"/>
+
+
+
+</menu>
